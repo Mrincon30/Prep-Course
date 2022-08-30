@@ -1,0 +1,18 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. 
+Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Variables:
+Son elementos o simbolos donde se puede guardar algo como letras, numeros, operaciones. Son como gavetas donde tu almacenas o guardas algo.
+
+Strings:
+Son las letras, o simbolos que puedes escribir mediante un teclado. En ocasiones tanbien podrias escribir los numeros como strings.
+
+Funciones (argumentos, return):
+Podria decirse que representan una o varias instrucciones en donde se relacionan varios elementos, estas normalmente reciben algo como por ejemplo 2 numeros, y devuelven un resultado de una
+instruccion por ejemplo la suma de esos 2 numeros.
+
+Declaraciones if
+Son condiciones en cuales depende de su resultadao se hara una cosa u otr, por ejemplo Si llueve hoy no iremos al parque, si no entonces iremos.
+
+Valores booleanos (true, false):
+Son valores que solo pueden ser verdadero o falso o tambien podria decirse si o no, por ejemplo el resultado de la pregunta Hoy es Sabado? la respuesta solo puede ser Verdadero o Falso.
