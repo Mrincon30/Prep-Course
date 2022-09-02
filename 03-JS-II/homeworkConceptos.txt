@@ -1,0 +1,10 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente
+cualquier agujero en tu comprensión.
+
+for:
+Se usa para hacer que una o varias instrucciones de repitan de forma controlada, definiendo las veces que se desa repetir, y cumpliendo una condicion. Por ejemplo, patearemos la pelota hacia la arqueria 
+hasta haber metido 3 goles, aqui los intentos van desde la patada o el tiro 1 y se repetira de nuevo (de uno en uno obvio) hasta meter 3 goles.
+
+&&, ||, !
+Son operadores logicos usados para establecer dos o mas condiciones previas a ejecutar alguna instruccion. Por ejemplo: Para el operadodr && ("and") Si la persona es mujeres y tiene 2 hijos, entregarle 2 regalos.
+Un ejemplo para el operador || ("or") seria, Si la persona es menor a 14 anos o mayor a 8 anos entregarle un balon de futbol.
