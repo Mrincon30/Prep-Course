@@ -1,0 +1,5 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años.
+
+Arrays:
+Es una coleccion de cosas o elementos dentro de una variable, digamos que un array es una caja que adentro contiene muchas cosas que pueden ser iguales o diferentes, es decir de diferente tipo, por ejemplo
+puede tener dentro solo medias, o puede tener medias, dulces, libros, etc.
