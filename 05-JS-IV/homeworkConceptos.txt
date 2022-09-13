@@ -1,0 +1,18 @@
+Objetos:
+Son similares a los arrays, pero estos no son numeros, los objetos pueden tener caracteristicas que llamamos como queramos y cada una de ellas debe tener un valor. Un objeto puede ser una persona, y
+una caracteristica o propiedad de esta persona puede ser la edad.
+Tambien posee funciones, es decir cosas que puede hacer, como por ejemplo comer, correr, dormir.
+
+Propiedades:
+Son caracteristicas que tienen los objetos. Por ejemplo, un objeto Persona puede tener como caracteristicas un nombre, un apellido y una edad, todas las personas tenemos estas caracteristicas 
+pero con diferentes nombres, apellidos y edades esas diferencias las llamamos valores.
+
+Métodos:
+Son las funciones, las cosas que puede hacer un objeto, por ejemplo una funcion de un objeto persona podria ser comer.
+
+Bucle for…in
+Son repeticiones de una accion sobre cada una de las propiedades o claves de un objeto.
+
+Notación de puntos vs notación de corchetes
+Se usan para acceder a los valores o a los metodos de un objeto, la notacion de puntos para acceder a la propiedad nombre de un objeto Persona se escribe Persona.nombre; 
+y  usando la notacion de corchetes en la misma siacion descrita se escribe Persona['nombre']
